@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "LeetTrack — LeetCode Progress",
+  "version": "1.0.0",
+  "description": "A local-first LeetCode tracker with review reminders and a polished GitHub README workflow.",
+  "permissions": ["storage", "activeTab", "scripting"],
+  "host_permissions": ["https://api.github.com/*", "https://leetcode.com/*", "https://www.leetcode.com/*"],
+  "action": { "default_title": "Open LeetTrack", "default_popup": "popup.html" },
+  "options_page": "options.html",
+  "background": { "service_worker": "background.js" },
+  "content_scripts": [{
+    "matches": ["https://leetcode.com/*", "https://www.leetcode.com/*"],
+    "js": ["content.js"],
+    "run_at": "document_idle"
+  }]
+}
