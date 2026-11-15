@@ -1,0 +1,2293 @@
+{
+  "generatedBy": "LeetTrack",
+  "username": "dineshdk532",
+  "updatedAt": "2026-11-15T13:11:30.589Z",
+  "problems": [
+    {
+      "title": "Game Play Analysis I",
+      "slug": "game-play-analysis-i",
+      "url": "https://leetcode.com/problems/game-play-analysis-i/",
+      "difficulty": "EASY",
+      "topics": [
+        "Database"
+      ],
+      "solutions": [
+        {
+          "topic": "Database",
+          "language": "SQL",
+          "path": "Database/game-play-analysis-i.sql",
+          "url": "https://github.com/dk132001/LeetCode_DE/blob/main/Database/game-play-analysis-i.sql"
+        }
+      ]
+    },
+    {
+      "title": "Customer Placing the Largest Number of Orders",
+      "slug": "customer-placing-the-largest-number-of-orders",
+      "url": "https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/",
+      "difficulty": "EASY",
+      "topics": [
+        "Database"
+      ],
+      "solutions": [
+        {
+          "topic": "Database",
+          "language": "SQL",
+          "path": "Database/customer-placing-the-largest-number-of-orders.sql",
+          "url": "https://github.com/dk132001/LeetCode_DE/blob/main/Database/customer-placing-the-largest-number-of-orders.sql"
+        }
+      ]
+    },
+    {
+      "title": "Sales Person",
+      "slug": "sales-person",
+      "url": "https://leetcode.com/problems/sales-person/",
+      "difficulty": "EASY",
+      "topics": [
+        "Database"
+      ],
+      "solutions": [
+        {
+          "topic": "Database",
+          "language": "SQL",
+          "path": "Database/sales-person.sql",
+          "url": "https://github.com/dk132001/LeetCode_DE/blob/main/Database/sales-person.sql"
+        }
+      ]
+    },
+    {
+      "title": "Tree Node",
+      "slug": "tree-node",
+      "url": "https://leetcode.com/problems/tree-node/",
+      "difficulty": "MEDIUM",
+      "topics": [
+        "Database"
+      ],
+      "solutions": [
+        {
+          "topic": "Database",
+          "language": "SQL",
+          "path": "Database/tree-node.sql",
+          "url": "https://github.com/dk132001/LeetCode_DE/blob/main/Database/tree-node.sql"
+        }
+      ]
+    },
+    {
+      "title": "Swap Sex of Employees",
+      "slug": "swap-sex-of-employees",
+      "url": "https://leetcode.com/problems/swap-sex-of-employees/",
+      "difficulty": "EASY",
+      "topics": [
+        "Database"
+      ],
+      "solutions": [
+        {
+          "topic": "Database",
+          "language": "SQL",
+          "path": "Database/swap-sex-of-employees.sql",
+          "url": "https://github.com/dk132001/LeetCode_DE/blob/main/Database/swap-sex-of-employees.sql"
+        }
+      ]
+    },
+    {
+      "title": "Actors and Directors Who Cooperated At Least Three Times",
+      "slug": "actors-and-directors-who-cooperated-at-least-three-times",
+      "url": "https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/",
+      "difficulty": "EASY",
+      "topics": [
+        "Database"
+      ],
+      "solutions": [
+        {
+          "topic": "Database",
+          "language": "SQL",
+          "path": "Database/actors-and-directors-who-cooperated-at-least-three-times.sql",
+          "url": "https://github.com/dk132001/LeetCode_DE/blob/main/Database/actors-and-directors-who-cooperated-at-least-three-times.sql"
+        }
+      ]
+    },
+    {
+      "title": "Sales Analysis III",
+      "slug": "sales-analysis-iii",
+      "url": "https://leetcode.com/problems/sales-analysis-iii/",
+      "difficulty": "EASY",
+      "topics": [
+        "Database"
+      ],
+      "solutions": [
+        {
+          "topic": "Database",
+          "language": "SQL",
+          "path": "Database/sales-analysis-iii.sql",
+          "url": "https://github.com/dk132001/LeetCode_DE/blob/main/Database/sales-analysis-iii.sql"
+        }
+      ]
+    },
+    {
+      "title": "Market Analysis I",
+      "slug": "market-analysis-i",
+      "url": "https://leetcode.com/problems/market-analysis-i/",
+      "difficulty": "MEDIUM",
+      "topics": [
+        "Database"
+      ],
+      "solutions": [
+        {
+          "topic": "Database",
+          "language": "SQL",
+          "path": "Database/market-analysis-i.sql",
+          "url": "https://github.com/dk132001/LeetCode_DE/blob/main/Database/market-analysis-i.sql"
+        }
+      ]
+    },
+    {
+      "title": "Reformat Department Table",
+      "slug": "reformat-department-table",
+      "url": "https://leetcode.com/problems/reformat-department-table/",
+      "difficulty": "EASY",
+      "topics": [
+        "Database"
+      ],
+      "solutions": [
+        {
+          "topic": "Database",
+          "language": "SQL",
+          "path": "Database/reformat-department-table.sql",
+          "url": "https://github.com/dk132001/LeetCode_DE/blob/main/Database/reformat-department-table.sql"
+        }
+      ]
+    },
+    {
+      "title": "Bank Account Summary II",
+      "slug": "bank-account-summary-ii",
+      "url": "https://leetcode.com/problems/bank-account-summary-ii/",
+      "difficulty": "EASY",
+      "topics": [
+        "Database"
+      ],
+      "solutions": [
+        {
+          "topic": "Database",
+          "language": "SQL",
+          "path": "Database/bank-account-summary-ii.sql",
+          "url": "https://github.com/dk132001/LeetCode_DE/blob/main/Database/bank-account-summary-ii.sql"
+        }
+      ]
+    },
+    {
+      "title": "Second Highest Salary",
+      "slug": "second-highest-salary",
+      "url": "https://leetcode.com/problems/second-highest-salary/",
+      "difficulty": "MEDIUM",
+      "topics": [
+        "Database"
+      ],
+      "solutions": [
+        {
+          "topic": "Database",
+          "language": "Other",
+          "path": "Database/second-highest-salary.txt",
+          "url": "https://github.com/dk132001/LeetCode_DE/blob/main/Database/second-highest-salary.txt"
+        }
+      ]
+    },
+    {
+      "title": "Maximum Ice Cream Bars",
+      "slug": "maximum-ice-cream-bars",
+      "url": "https://leetcode.com/problems/maximum-ice-cream-bars/",
+      "difficulty": "MEDIUM",
+      "topics": [
+        "Array",
+        "Counting-Sort",
+        "Greedy",
+        "Sorting"
+      ],
+      "solutions": [
+        {
+          "topic": "Array",
+          "language": "Python",
+          "path": "Array/maximum-ice-cream-bars.py",
+          "url": "https://github.com/dk132001/LeetCode_DE/blob/main/Array/maximum-ice-cream-bars.py"
+        },
+        {
+          "topic": "Counting-Sort",
+          "language": "Python",
+          "path": "Counting-Sort/maximum-ice-cream-bars.py",
+          "url": "https://github.com/dk132001/LeetCode_DE/blob/main/Counting-Sort/maximum-ice-cream-bars.py"
+        },
+        {
+          "topic": "Greedy",
+          "language": "Python",
+          "path": "Greedy/maximum-ice-cream-bars.py",
+          "url": "https://github.com/dk132001/LeetCode_DE/blob/main/Greedy/maximum-ice-cream-bars.py"
+        },
+        {
+          "topic": "Sorting",
+          "language": "Python",
+          "path": "Sorting/maximum-ice-cream-bars.py",
+          "url": "https://github.com/dk132001/LeetCode_DE/blob/main/Sorting/maximum-ice-cream-bars.py"
+        }
+      ]
+    },
+    {
+      "title": "Reverse Words In A String",
+      "slug": "reverse-words-in-a-string",
+      "url": "https://leetcode.com/problems/reverse-words-in-a-string/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Valid Palindrome",
+      "slug": "valid-palindrome",
+      "url": "https://leetcode.com/problems/valid-palindrome/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Find The Index Of The First Occurrence In A String",
+      "slug": "find-the-index-of-the-first-occurrence-in-a-string",
+      "url": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Longest Palindromic Substring",
+      "slug": "longest-palindromic-substring",
+      "url": "https://leetcode.com/problems/longest-palindromic-substring/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Delete Leaves With A Given Value",
+      "slug": "delete-leaves-with-a-given-value",
+      "url": "https://leetcode.com/problems/delete-leaves-with-a-given-value/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Diameter Of Binary Tree",
+      "slug": "diameter-of-binary-tree",
+      "url": "https://leetcode.com/problems/diameter-of-binary-tree/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Sum Of Left Leaves",
+      "slug": "sum-of-left-leaves",
+      "url": "https://leetcode.com/problems/sum-of-left-leaves/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Path Sum",
+      "slug": "path-sum",
+      "url": "https://leetcode.com/problems/path-sum/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Maximum Depth Of Binary Tree",
+      "slug": "maximum-depth-of-binary-tree",
+      "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Symmetric Tree",
+      "slug": "symmetric-tree",
+      "url": "https://leetcode.com/problems/symmetric-tree/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Same Tree",
+      "slug": "same-tree",
+      "url": "https://leetcode.com/problems/same-tree/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Validate Binary Search Tree",
+      "slug": "validate-binary-search-tree",
+      "url": "https://leetcode.com/problems/validate-binary-search-tree/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Minimum Operations To Sort A String",
+      "slug": "minimum-operations-to-sort-a-string",
+      "url": "https://leetcode.com/problems/minimum-operations-to-sort-a-string/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Number Of Changing Keys",
+      "slug": "number-of-changing-keys",
+      "url": "https://leetcode.com/problems/number-of-changing-keys/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Sort Vowels In A String",
+      "slug": "sort-vowels-in-a-string",
+      "url": "https://leetcode.com/problems/sort-vowels-in-a-string/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Lexicographically Smallest String After Applying Operations",
+      "slug": "lexicographically-smallest-string-after-applying-operations",
+      "url": "https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Longest Common Subsequence",
+      "slug": "longest-common-subsequence",
+      "url": "https://leetcode.com/problems/longest-common-subsequence/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "To Lower Case",
+      "slug": "to-lower-case",
+      "url": "https://leetcode.com/problems/to-lower-case/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Robot Return To Origin",
+      "slug": "robot-return-to-origin",
+      "url": "https://leetcode.com/problems/robot-return-to-origin/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Length Of Last Word",
+      "slug": "length-of-last-word",
+      "url": "https://leetcode.com/problems/length-of-last-word/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "url": "https://leetcode.com/problems/valid-parentheses/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "String To Integer Atoi",
+      "slug": "string-to-integer-atoi",
+      "url": "https://leetcode.com/problems/string-to-integer-atoi/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Zigzag Conversion",
+      "slug": "zigzag-conversion",
+      "url": "https://leetcode.com/problems/zigzag-conversion/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Increasing Order Search Tree",
+      "slug": "increasing-order-search-tree",
+      "url": "https://leetcode.com/problems/increasing-order-search-tree/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Min Stack",
+      "slug": "min-stack",
+      "url": "https://leetcode.com/problems/min-stack/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Binary Tree Preorder Traversal",
+      "slug": "binary-tree-preorder-traversal",
+      "url": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Binary Tree Inorder Traversal",
+      "slug": "binary-tree-inorder-traversal",
+      "url": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Gcd Of Odd And Even Sums",
+      "slug": "gcd-of-odd-and-even-sums",
+      "url": "https://leetcode.com/problems/gcd-of-odd-and-even-sums/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Maximum Product Of Two Digits",
+      "slug": "maximum-product-of-two-digits",
+      "url": "https://leetcode.com/problems/maximum-product-of-two-digits/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Find The K Th Character In String Game I",
+      "slug": "find-the-k-th-character-in-string-game-i",
+      "url": "https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Vowels Game In A String",
+      "slug": "vowels-game-in-a-string",
+      "url": "https://leetcode.com/problems/vowels-game-in-a-string/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Minimum Number Of Pushes To Type Word I",
+      "slug": "minimum-number-of-pushes-to-type-word-i",
+      "url": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Divisible and Non-divisible Sums Difference",
+      "slug": "divisible-and-non-divisible-sums-difference",
+      "url": "https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/",
+      "difficulty": "EASY",
+      "topics": [
+        "Math"
+      ],
+      "solutions": [
+        {
+          "topic": "Math",
+          "language": "Python",
+          "path": "Math/divisible-and-non-divisible-sums-difference.py",
+          "url": "https://github.com/dk132001/LeetCode_DE/blob/main/Math/divisible-and-non-divisible-sums-difference.py"
+        }
+      ]
+    },
+    {
+      "title": "Find The Maximum Achievable Number",
+      "slug": "find-the-maximum-achievable-number",
+      "url": "https://leetcode.com/problems/find-the-maximum-achievable-number/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Sum Multiples",
+      "slug": "sum-multiples",
+      "url": "https://leetcode.com/problems/sum-multiples/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Categorize Box According To Criteria",
+      "slug": "categorize-box-according-to-criteria",
+      "url": "https://leetcode.com/problems/categorize-box-according-to-criteria/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Count The Digits That Divide A Number",
+      "slug": "count-the-digits-that-divide-a-number",
+      "url": "https://leetcode.com/problems/count-the-digits-that-divide-a-number/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Strictly Palindromic Number",
+      "slug": "strictly-palindromic-number",
+      "url": "https://leetcode.com/problems/strictly-palindromic-number/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Add Two Integers",
+      "slug": "add-two-integers",
+      "url": "https://leetcode.com/problems/add-two-integers/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Xor Operation In An Array",
+      "slug": "xor-operation-in-an-array",
+      "url": "https://leetcode.com/problems/xor-operation-in-an-array/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Subtract The Product And Sum Of Digits Of An Integer",
+      "slug": "subtract-the-product-and-sum-of-digits-of-an-integer",
+      "url": "https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Fibonacci Number",
+      "slug": "fibonacci-number",
+      "url": "https://leetcode.com/problems/fibonacci-number/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Perfect Number",
+      "slug": "perfect-number",
+      "url": "https://leetcode.com/problems/perfect-number/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Construct The Rectangle",
+      "slug": "construct-the-rectangle",
+      "url": "https://leetcode.com/problems/construct-the-rectangle/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Add Strings",
+      "slug": "add-strings",
+      "url": "https://leetcode.com/problems/add-strings/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Valid Perfect Square",
+      "slug": "valid-perfect-square",
+      "url": "https://leetcode.com/problems/valid-perfect-square/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Power Of Four",
+      "slug": "power-of-four",
+      "url": "https://leetcode.com/problems/power-of-four/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Power Of Three",
+      "slug": "power-of-three",
+      "url": "https://leetcode.com/problems/power-of-three/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Add Digits",
+      "slug": "add-digits",
+      "url": "https://leetcode.com/problems/add-digits/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Power Of Two",
+      "slug": "power-of-two",
+      "url": "https://leetcode.com/problems/power-of-two/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Factorial Trailing Zeroes",
+      "slug": "factorial-trailing-zeroes",
+      "url": "https://leetcode.com/problems/factorial-trailing-zeroes/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Excel Sheet Column Number",
+      "slug": "excel-sheet-column-number",
+      "url": "https://leetcode.com/problems/excel-sheet-column-number/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Climbing Stairs",
+      "slug": "climbing-stairs",
+      "url": "https://leetcode.com/problems/climbing-stairs/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Sqrtx",
+      "slug": "sqrtx",
+      "url": "https://leetcode.com/problems/sqrtx/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Add Binary",
+      "slug": "add-binary",
+      "url": "https://leetcode.com/problems/add-binary/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Powx N",
+      "slug": "powx-n",
+      "url": "https://leetcode.com/problems/powx-n/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Palindrome Number",
+      "slug": "palindrome-number",
+      "url": "https://leetcode.com/problems/palindrome-number/",
+      "difficulty": "EASY",
+      "topics": [
+        "Math"
+      ],
+      "solutions": [
+        {
+          "topic": "Math",
+          "language": "Python",
+          "path": "Math/palindrome-number.py",
+          "url": "https://github.com/dk132001/LeetCode_DE/blob/main/Math/palindrome-number.py"
+        }
+      ]
+    },
+    {
+      "title": "Reverse Integer",
+      "slug": "reverse-integer",
+      "url": "https://leetcode.com/problems/reverse-integer/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Convert Binary Number In A Linked List To Integer",
+      "slug": "convert-binary-number-in-a-linked-list-to-integer",
+      "url": "https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Middle Of The Linked List",
+      "slug": "middle-of-the-linked-list",
+      "url": "https://leetcode.com/problems/middle-of-the-linked-list/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Palindrome Linked List",
+      "slug": "palindrome-linked-list",
+      "url": "https://leetcode.com/problems/palindrome-linked-list/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Reverse Linked List",
+      "slug": "reverse-linked-list",
+      "url": "https://leetcode.com/problems/reverse-linked-list/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Reorder List",
+      "slug": "reorder-list",
+      "url": "https://leetcode.com/problems/reorder-list/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Remove Duplicates From Sorted List",
+      "slug": "remove-duplicates-from-sorted-list",
+      "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Rotate List",
+      "slug": "rotate-list",
+      "url": "https://leetcode.com/problems/rotate-list/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Swap Nodes In Pairs",
+      "slug": "swap-nodes-in-pairs",
+      "url": "https://leetcode.com/problems/swap-nodes-in-pairs/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Merge Two Sorted Lists",
+      "slug": "merge-two-sorted-lists",
+      "url": "https://leetcode.com/problems/merge-two-sorted-lists/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Remove Nth Node From End Of List",
+      "slug": "remove-nth-node-from-end-of-list",
+      "url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Add Two Numbers",
+      "slug": "add-two-numbers",
+      "url": "https://leetcode.com/problems/add-two-numbers/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Find Most Frequent Vowel And Consonant",
+      "slug": "find-most-frequent-vowel-and-consonant",
+      "url": "https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Maximum Number Of Words You Can Type",
+      "slug": "maximum-number-of-words-you-can-type",
+      "url": "https://leetcode.com/problems/maximum-number-of-words-you-can-type/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Check If The Sentence Is Pangram",
+      "slug": "check-if-the-sentence-is-pangram",
+      "url": "https://leetcode.com/problems/check-if-the-sentence-is-pangram/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Sum Of Beauty Of All Substrings",
+      "slug": "sum-of-beauty-of-all-substrings",
+      "url": "https://leetcode.com/problems/sum-of-beauty-of-all-substrings/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Permutation In String",
+      "slug": "permutation-in-string",
+      "url": "https://leetcode.com/problems/permutation-in-string/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Longest Repeating Character Replacement",
+      "slug": "longest-repeating-character-replacement",
+      "url": "https://leetcode.com/problems/longest-repeating-character-replacement/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "First Unique Character In A String",
+      "slug": "first-unique-character-in-a-string",
+      "url": "https://leetcode.com/problems/first-unique-character-in-a-string/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Valid Anagram",
+      "slug": "valid-anagram",
+      "url": "https://leetcode.com/problems/valid-anagram/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Intersection Of Two Linked Lists",
+      "slug": "intersection-of-two-linked-lists",
+      "url": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Linked List Cycle Ii",
+      "slug": "linked-list-cycle-ii",
+      "url": "https://leetcode.com/problems/linked-list-cycle-ii/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Linked List Cycle",
+      "slug": "linked-list-cycle",
+      "url": "https://leetcode.com/problems/linked-list-cycle/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Longest Substring Without Repeating Characters",
+      "slug": "longest-substring-without-repeating-characters",
+      "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Counting Bits",
+      "slug": "counting-bits",
+      "url": "https://leetcode.com/problems/counting-bits/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Number Of Unique Subjects Taught By Each Teacher",
+      "slug": "number-of-unique-subjects-taught-by-each-teacher",
+      "url": "https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Employees Whose Manager Left The Company",
+      "slug": "employees-whose-manager-left-the-company",
+      "url": "https://leetcode.com/problems/employees-whose-manager-left-the-company/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Rearrange Products Table",
+      "slug": "rearrange-products-table",
+      "url": "https://leetcode.com/problems/rearrange-products-table/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Primary Department For Each Employee",
+      "slug": "primary-department-for-each-employee",
+      "url": "https://leetcode.com/problems/primary-department-for-each-employee/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Recyclable And Low Fat Products",
+      "slug": "recyclable-and-low-fat-products",
+      "url": "https://leetcode.com/problems/recyclable-and-low-fat-products/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Find Total Time Spent By Each Employee",
+      "slug": "find-total-time-spent-by-each-employee",
+      "url": "https://leetcode.com/problems/find-total-time-spent-by-each-employee/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "The Number Of Employees Which Report To Each Employee",
+      "slug": "the-number-of-employees-which-report-to-each-employee",
+      "url": "https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Find Followers Count",
+      "slug": "find-followers-count",
+      "url": "https://leetcode.com/problems/find-followers-count/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Invalid Tweets",
+      "slug": "invalid-tweets",
+      "url": "https://leetcode.com/problems/invalid-tweets/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Fix Names In A Table",
+      "slug": "fix-names-in-a-table",
+      "url": "https://leetcode.com/problems/fix-names-in-a-table/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Average Time Of Process Per Machine",
+      "slug": "average-time-of-process-per-machine",
+      "url": "https://leetcode.com/problems/average-time-of-process-per-machine/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Percentage Of Users Attended A Contest",
+      "slug": "percentage-of-users-attended-a-contest",
+      "url": "https://leetcode.com/problems/percentage-of-users-attended-a-contest/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Customer Who Visited but Did Not Make Any Transactions",
+      "slug": "customer-who-visited-but-did-not-make-any-transactions",
+      "url": "https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/",
+      "difficulty": "EASY",
+      "topics": [
+        "Database"
+      ],
+      "solutions": [
+        {
+          "topic": "Database",
+          "language": "SQL",
+          "path": "Database/customer-who-visited-but-did-not-make-any-transactions.sql",
+          "url": "https://github.com/dk132001/LeetCode_DE/blob/main/Database/customer-who-visited-but-did-not-make-any-transactions.sql"
+        }
+      ]
+    },
+    {
+      "title": "Patients With a Condition",
+      "slug": "patients-with-a-condition",
+      "url": "https://leetcode.com/problems/patients-with-a-condition/",
+      "difficulty": "EASY",
+      "topics": [
+        "Database"
+      ],
+      "solutions": [
+        {
+          "topic": "Database",
+          "language": "SQL",
+          "path": "Database/patients-with-a-condition.sql",
+          "url": "https://github.com/dk132001/LeetCode_DE/blob/main/Database/patients-with-a-condition.sql"
+        }
+      ]
+    },
+    {
+      "title": "Find Users With Valid E Mails",
+      "slug": "find-users-with-valid-e-mails",
+      "url": "https://leetcode.com/problems/find-users-with-valid-e-mails/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Group Sold Products By The Date",
+      "slug": "group-sold-products-by-the-date",
+      "url": "https://leetcode.com/problems/group-sold-products-by-the-date/",
+      "difficulty": "EASY",
+      "topics": [
+        "Database"
+      ],
+      "solutions": [
+        {
+          "topic": "Database",
+          "language": "SQL",
+          "path": "Database/group-sold-products-by-the-date.sql",
+          "url": "https://github.com/dk132001/LeetCode_DE/blob/main/Database/group-sold-products-by-the-date.sql"
+        }
+      ]
+    },
+    {
+      "title": "Top Travellers",
+      "slug": "top-travellers",
+      "url": "https://leetcode.com/problems/top-travellers/",
+      "difficulty": "EASY",
+      "topics": [
+        "Database"
+      ],
+      "solutions": [
+        {
+          "topic": "Database",
+          "language": "SQL",
+          "path": "Database/top-travellers.sql",
+          "url": "https://github.com/dk132001/LeetCode_DE/blob/main/Database/top-travellers.sql"
+        }
+      ]
+    },
+    {
+      "title": "Replace Employee Id With The Unique Identifier",
+      "slug": "replace-employee-id-with-the-unique-identifier",
+      "url": "https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "List The Products Ordered In A Period",
+      "slug": "list-the-products-ordered-in-a-period",
+      "url": "https://leetcode.com/problems/list-the-products-ordered-in-a-period/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Students And Examinations",
+      "slug": "students-and-examinations",
+      "url": "https://leetcode.com/problems/students-and-examinations/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Average Selling Price",
+      "slug": "average-selling-price",
+      "url": "https://leetcode.com/problems/average-selling-price/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Queries Quality And Percentage",
+      "slug": "queries-quality-and-percentage",
+      "url": "https://leetcode.com/problems/queries-quality-and-percentage/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Article Views I",
+      "slug": "article-views-i",
+      "url": "https://leetcode.com/problems/article-views-i/",
+      "difficulty": "EASY",
+      "topics": [
+        "Database"
+      ],
+      "solutions": [
+        {
+          "topic": "Database",
+          "language": "SQL",
+          "path": "Database/article-views-i.sql",
+          "url": "https://github.com/dk132001/LeetCode_DE/blob/main/Database/article-views-i.sql"
+        }
+      ]
+    },
+    {
+      "title": "User Activity for the Past 30 Days I",
+      "slug": "user-activity-for-the-past-30-days-i",
+      "url": "https://leetcode.com/problems/user-activity-for-the-past-30-days-i/",
+      "difficulty": "EASY",
+      "topics": [
+        "Database"
+      ],
+      "solutions": [
+        {
+          "topic": "Database",
+          "language": "SQL",
+          "path": "Database/user-activity-for-the-past-30-days-i.sql",
+          "url": "https://github.com/dk132001/LeetCode_DE/blob/main/Database/user-activity-for-the-past-30-days-i.sql"
+        }
+      ]
+    },
+    {
+      "title": "Project Employees I",
+      "slug": "project-employees-i",
+      "url": "https://leetcode.com/problems/project-employees-i/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Product Sales Analysis I",
+      "slug": "product-sales-analysis-i",
+      "url": "https://leetcode.com/problems/product-sales-analysis-i/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Not Boring Movies",
+      "slug": "not-boring-movies",
+      "url": "https://leetcode.com/problems/not-boring-movies/",
+      "difficulty": "EASY",
+      "topics": [
+        "Database"
+      ],
+      "solutions": [
+        {
+          "topic": "Database",
+          "language": "SQL",
+          "path": "Database/not-boring-movies.sql",
+          "url": "https://github.com/dk132001/LeetCode_DE/blob/main/Database/not-boring-movies.sql"
+        }
+      ]
+    },
+    {
+      "title": "Biggest Single Number",
+      "slug": "biggest-single-number",
+      "url": "https://leetcode.com/problems/biggest-single-number/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Triangle Judgement",
+      "slug": "triangle-judgement",
+      "url": "https://leetcode.com/problems/triangle-judgement/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Classes With at Least 5 Students",
+      "slug": "classes-with-at-least-5-students",
+      "url": "https://leetcode.com/problems/classes-with-at-least-5-students/",
+      "difficulty": "EASY",
+      "topics": [
+        "Database"
+      ],
+      "solutions": [
+        {
+          "topic": "Database",
+          "language": "SQL",
+          "path": "Database/classes-with-at-least-5-students.sql",
+          "url": "https://github.com/dk132001/LeetCode_DE/blob/main/Database/classes-with-at-least-5-students.sql"
+        }
+      ]
+    },
+    {
+      "title": "Big Countries",
+      "slug": "big-countries",
+      "url": "https://leetcode.com/problems/big-countries/",
+      "difficulty": "EASY",
+      "topics": [
+        "Database"
+      ],
+      "solutions": [
+        {
+          "topic": "Database",
+          "language": "SQL",
+          "path": "Database/big-countries.sql",
+          "url": "https://github.com/dk132001/LeetCode_DE/blob/main/Database/big-countries.sql"
+        }
+      ]
+    },
+    {
+      "title": "Find Customer Referee",
+      "slug": "find-customer-referee",
+      "url": "https://leetcode.com/problems/find-customer-referee/",
+      "difficulty": "EASY",
+      "topics": [
+        "Database"
+      ],
+      "solutions": [
+        {
+          "topic": "Database",
+          "language": "SQL",
+          "path": "Database/find-customer-referee.sql",
+          "url": "https://github.com/dk132001/LeetCode_DE/blob/main/Database/find-customer-referee.sql"
+        }
+      ]
+    },
+    {
+      "title": "Employee Bonus",
+      "slug": "employee-bonus",
+      "url": "https://leetcode.com/problems/employee-bonus/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Rising Temperature",
+      "slug": "rising-temperature",
+      "url": "https://leetcode.com/problems/rising-temperature/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Delete Duplicate Emails",
+      "slug": "delete-duplicate-emails",
+      "url": "https://leetcode.com/problems/delete-duplicate-emails/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Customers Who Never Order",
+      "slug": "customers-who-never-order",
+      "url": "https://leetcode.com/problems/customers-who-never-order/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Duplicate Emails",
+      "slug": "duplicate-emails",
+      "url": "https://leetcode.com/problems/duplicate-emails/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Employees Earning More Than Their Managers",
+      "slug": "employees-earning-more-than-their-managers",
+      "url": "https://leetcode.com/problems/employees-earning-more-than-their-managers/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Combine Two Tables",
+      "slug": "combine-two-tables",
+      "url": "https://leetcode.com/problems/combine-two-tables/",
+      "difficulty": "EASY",
+      "topics": [
+        "Database"
+      ],
+      "solutions": [
+        {
+          "topic": "Database",
+          "language": "SQL",
+          "path": "Database/combine-two-tables.sql",
+          "url": "https://github.com/dk132001/LeetCode_DE/blob/main/Database/combine-two-tables.sql"
+        }
+      ]
+    },
+    {
+      "title": "Number Of 1 Bits",
+      "slug": "number-of-1-bits",
+      "url": "https://leetcode.com/problems/number-of-1-bits/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Minimum Operations To Sort A Permutation",
+      "slug": "minimum-operations-to-sort-a-permutation",
+      "url": "https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Weighted Word Mapping",
+      "slug": "weighted-word-mapping",
+      "url": "https://leetcode.com/problems/weighted-word-mapping/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Minimum Operations To Reach Target Array",
+      "slug": "minimum-operations-to-reach-target-array",
+      "url": "https://leetcode.com/problems/minimum-operations-to-reach-target-array/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Find Missing Elements",
+      "slug": "find-missing-elements",
+      "url": "https://leetcode.com/problems/find-missing-elements/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Maximum Product Of Two Integers With No Common Bits",
+      "slug": "maximum-product-of-two-integers-with-no-common-bits",
+      "url": "https://leetcode.com/problems/maximum-product-of-two-integers-with-no-common-bits/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Restore Finishing Order",
+      "slug": "restore-finishing-order",
+      "url": "https://leetcode.com/problems/restore-finishing-order/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Partition Array Into K Distinct Groups",
+      "slug": "partition-array-into-k-distinct-groups",
+      "url": "https://leetcode.com/problems/partition-array-into-k-distinct-groups/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Trionic Array I",
+      "slug": "trionic-array-i",
+      "url": "https://leetcode.com/problems/trionic-array-i/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Minimum Pair Removal To Sort Array I",
+      "slug": "minimum-pair-removal-to-sort-array-i",
+      "url": "https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Make Array Elements Equal To Zero",
+      "slug": "make-array-elements-equal-to-zero",
+      "url": "https://leetcode.com/problems/make-array-elements-equal-to-zero/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Adjacent Increasing Subarrays Detection I",
+      "slug": "adjacent-increasing-subarrays-detection-i",
+      "url": "https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Construct The Minimum Bitwise Array Ii",
+      "slug": "construct-the-minimum-bitwise-array-ii",
+      "url": "https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Construct The Minimum Bitwise Array I",
+      "slug": "construct-the-minimum-bitwise-array-i",
+      "url": "https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Find If Digit Game Can Be Won",
+      "slug": "find-if-digit-game-can-be-won",
+      "url": "https://leetcode.com/problems/find-if-digit-game-can-be-won/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Delete Nodes From Linked List Present In Array",
+      "slug": "delete-nodes-from-linked-list-present-in-array",
+      "url": "https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Longest Strictly Increasing Or Strictly Decreasing Subarray",
+      "slug": "longest-strictly-increasing-or-strictly-decreasing-subarray",
+      "url": "https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Minimum Operations To Exceed Threshold Value I",
+      "slug": "minimum-operations-to-exceed-threshold-value-i",
+      "url": "https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Type Of Triangle",
+      "slug": "type-of-triangle",
+      "url": "https://leetcode.com/problems/type-of-triangle/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Divide An Array Into Subarrays With Minimum Cost I",
+      "slug": "divide-an-array-into-subarrays-with-minimum-cost-i",
+      "url": "https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Count Elements With Maximum Frequency",
+      "slug": "count-elements-with-maximum-frequency",
+      "url": "https://leetcode.com/problems/count-elements-with-maximum-frequency/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Minimum Number Game",
+      "slug": "minimum-number-game",
+      "url": "https://leetcode.com/problems/minimum-number-game/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Find Words Containing Character",
+      "slug": "find-words-containing-character",
+      "url": "https://leetcode.com/problems/find-words-containing-character/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Number Of Employees Who Met The Target",
+      "slug": "number-of-employees-who-met-the-target",
+      "url": "https://leetcode.com/problems/number-of-employees-who-met-the-target/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Sum Of Squares Of Special Elements",
+      "slug": "sum-of-squares-of-special-elements",
+      "url": "https://leetcode.com/problems/sum-of-squares-of-special-elements/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Row With Maximum Ones",
+      "slug": "row-with-maximum-ones",
+      "url": "https://leetcode.com/problems/row-with-maximum-ones/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Difference Between Element Sum And Digit Sum Of An Array",
+      "slug": "difference-between-element-sum-and-digit-sum-of-an-array",
+      "url": "https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Best Poker Hand",
+      "slug": "best-poker-hand",
+      "url": "https://leetcode.com/problems/best-poker-hand/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Find Resultant Array After Removing Anagrams",
+      "slug": "find-resultant-array-after-removing-anagrams",
+      "url": "https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Keep Multiplying Found Values By Two",
+      "slug": "keep-multiplying-found-values-by-two",
+      "url": "https://leetcode.com/problems/keep-multiplying-found-values-by-two/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Rearrange Array Elements By Sign",
+      "slug": "rearrange-array-elements-by-sign",
+      "url": "https://leetcode.com/problems/rearrange-array-elements-by-sign/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Minimum Cost Of Buying Candies With Discount",
+      "slug": "minimum-cost-of-buying-candies-with-discount",
+      "url": "https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Maximum Number Of Words Found In Sentences",
+      "slug": "maximum-number-of-words-found-in-sentences",
+      "url": "https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Find First Palindromic String In The Array",
+      "slug": "find-first-palindromic-string-in-the-array",
+      "url": "https://leetcode.com/problems/find-first-palindromic-string-in-the-array/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Find Target Indices After Sorting Array",
+      "slug": "find-target-indices-after-sorting-array",
+      "url": "https://leetcode.com/problems/find-target-indices-after-sorting-array/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Simple Bank System",
+      "slug": "simple-bank-system",
+      "url": "https://leetcode.com/problems/simple-bank-system/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Final Value Of Variable After Performing Operations",
+      "slug": "final-value-of-variable-after-performing-operations",
+      "url": "https://leetcode.com/problems/final-value-of-variable-after-performing-operations/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Minimum Difference Between Highest And Lowest Of K Scores",
+      "slug": "minimum-difference-between-highest-and-lowest-of-k-scores",
+      "url": "https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Minimize Maximum Pair Sum In Array",
+      "slug": "minimize-maximum-pair-sum-in-array",
+      "url": "https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Find The Winner Of The Circular Game",
+      "slug": "find-the-winner-of-the-circular-game",
+      "url": "https://leetcode.com/problems/find-the-winner-of-the-circular-game/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Sign Of The Product Of An Array",
+      "slug": "sign-of-the-product-of-an-array",
+      "url": "https://leetcode.com/problems/sign-of-the-product-of-an-array/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Check If Array Is Sorted And Rotated",
+      "slug": "check-if-array-is-sorted-and-rotated",
+      "url": "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Richest Customer Wealth",
+      "slug": "richest-customer-wealth",
+      "url": "https://leetcode.com/problems/richest-customer-wealth/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Three Consecutive Odds",
+      "slug": "three-consecutive-odds",
+      "url": "https://leetcode.com/problems/three-consecutive-odds/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Kth Missing Positive Number",
+      "slug": "kth-missing-positive-number",
+      "url": "https://leetcode.com/problems/kth-missing-positive-number/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Count Submatrices With All Ones",
+      "slug": "count-submatrices-with-all-ones",
+      "url": "https://leetcode.com/problems/count-submatrices-with-all-ones/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Maximum Product Of Two Elements In An Array",
+      "slug": "maximum-product-of-two-elements-in-an-array",
+      "url": "https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Find N Unique Integers Sum Up To Zero",
+      "slug": "find-n-unique-integers-sum-up-to-zero",
+      "url": "https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Find The Smallest Divisor Given A Threshold",
+      "slug": "find-the-smallest-divisor-given-a-threshold",
+      "url": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Count Servers That Communicate",
+      "slug": "count-servers-that-communicate",
+      "url": "https://leetcode.com/problems/count-servers-that-communicate/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Minimum Absolute Difference",
+      "slug": "minimum-absolute-difference",
+      "url": "https://leetcode.com/problems/minimum-absolute-difference/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Last Stone Weight",
+      "slug": "last-stone-weight",
+      "url": "https://leetcode.com/problems/last-stone-weight/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Valid Boomerang",
+      "slug": "valid-boomerang",
+      "url": "https://leetcode.com/problems/valid-boomerang/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Squares Of A Sorted Array",
+      "slug": "squares-of-a-sorted-array",
+      "url": "https://leetcode.com/problems/squares-of-a-sorted-array/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Largest Perimeter Triangle",
+      "slug": "largest-perimeter-triangle",
+      "url": "https://leetcode.com/problems/largest-perimeter-triangle/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Sort An Array",
+      "slug": "sort-an-array",
+      "url": "https://leetcode.com/problems/sort-an-array/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Koko Eating Bananas",
+      "slug": "koko-eating-bananas",
+      "url": "https://leetcode.com/problems/koko-eating-bananas/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Transpose Matrix",
+      "slug": "transpose-matrix",
+      "url": "https://leetcode.com/problems/transpose-matrix/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Car Fleet",
+      "slug": "car-fleet",
+      "url": "https://leetcode.com/problems/car-fleet/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Min Cost Climbing Stairs",
+      "slug": "min-cost-climbing-stairs",
+      "url": "https://leetcode.com/problems/min-cost-climbing-stairs/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Find Smallest Letter Greater Than Target",
+      "slug": "find-smallest-letter-greater-than-target",
+      "url": "https://leetcode.com/problems/find-smallest-letter-greater-than-target/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Daily Temperatures",
+      "slug": "daily-temperatures",
+      "url": "https://leetcode.com/problems/daily-temperatures/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Binary Search",
+      "slug": "binary-search",
+      "url": "https://leetcode.com/problems/binary-search/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Baseball Game",
+      "slug": "baseball-game",
+      "url": "https://leetcode.com/problems/baseball-game/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Maximum Product Of Three Numbers",
+      "slug": "maximum-product-of-three-numbers",
+      "url": "https://leetcode.com/problems/maximum-product-of-three-numbers/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Single Element In A Sorted Array",
+      "slug": "single-element-in-a-sorted-array",
+      "url": "https://leetcode.com/problems/single-element-in-a-sorted-array/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Coin Change Ii",
+      "slug": "coin-change-ii",
+      "url": "https://leetcode.com/problems/coin-change-ii/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Relative Ranks",
+      "slug": "relative-ranks",
+      "url": "https://leetcode.com/problems/relative-ranks/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Next Greater Element Ii",
+      "slug": "next-greater-element-ii",
+      "url": "https://leetcode.com/problems/next-greater-element-ii/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Max Consecutive Ones",
+      "slug": "max-consecutive-ones",
+      "url": "https://leetcode.com/problems/max-consecutive-ones/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Island Perimeter",
+      "slug": "island-perimeter",
+      "url": "https://leetcode.com/problems/island-perimeter/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Intersection Of Two Arrays",
+      "slug": "intersection-of-two-arrays",
+      "url": "https://leetcode.com/problems/intersection-of-two-arrays/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Top K Frequent Elements",
+      "slug": "top-k-frequent-elements",
+      "url": "https://leetcode.com/problems/top-k-frequent-elements/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Longest Increasing Subsequence",
+      "slug": "longest-increasing-subsequence",
+      "url": "https://leetcode.com/problems/longest-increasing-subsequence/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Move Zeroes",
+      "slug": "move-zeroes",
+      "url": "https://leetcode.com/problems/move-zeroes/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Missing Number",
+      "slug": "missing-number",
+      "url": "https://leetcode.com/problems/missing-number/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Single Number Iii",
+      "slug": "single-number-iii",
+      "url": "https://leetcode.com/problems/single-number-iii/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Search A 2d Matrix Ii",
+      "slug": "search-a-2d-matrix-ii",
+      "url": "https://leetcode.com/problems/search-a-2d-matrix-ii/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Sliding Window Maximum",
+      "slug": "sliding-window-maximum",
+      "url": "https://leetcode.com/problems/sliding-window-maximum/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Product Of Array Except Self",
+      "slug": "product-of-array-except-self",
+      "url": "https://leetcode.com/problems/product-of-array-except-self/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Contains Duplicate",
+      "slug": "contains-duplicate",
+      "url": "https://leetcode.com/problems/contains-duplicate/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Combination Sum Iii",
+      "slug": "combination-sum-iii",
+      "url": "https://leetcode.com/problems/combination-sum-iii/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Kth Largest Element In An Array",
+      "slug": "kth-largest-element-in-an-array",
+      "url": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "House Robber Ii",
+      "slug": "house-robber-ii",
+      "url": "https://leetcode.com/problems/house-robber-ii/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Rotate Array",
+      "slug": "rotate-array",
+      "url": "https://leetcode.com/problems/rotate-array/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Majority Element",
+      "slug": "majority-element",
+      "url": "https://leetcode.com/problems/majority-element/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Two Sum Ii Input Array Is Sorted",
+      "slug": "two-sum-ii-input-array-is-sorted",
+      "url": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Find Minimum In Rotated Sorted Array",
+      "slug": "find-minimum-in-rotated-sorted-array",
+      "url": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Evaluate Reverse Polish Notation",
+      "slug": "evaluate-reverse-polish-notation",
+      "url": "https://leetcode.com/problems/evaluate-reverse-polish-notation/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Single Number",
+      "slug": "single-number",
+      "url": "https://leetcode.com/problems/single-number/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Longest Consecutive Sequence",
+      "slug": "longest-consecutive-sequence",
+      "url": "https://leetcode.com/problems/longest-consecutive-sequence/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Best Time To Buy And Sell Stock",
+      "slug": "best-time-to-buy-and-sell-stock",
+      "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Triangle",
+      "slug": "triangle",
+      "url": "https://leetcode.com/problems/triangle/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Pascals Triangle",
+      "slug": "pascals-triangle",
+      "url": "https://leetcode.com/problems/pascals-triangle/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Subsets Ii",
+      "slug": "subsets-ii",
+      "url": "https://leetcode.com/problems/subsets-ii/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Merge Sorted Array",
+      "slug": "merge-sorted-array",
+      "url": "https://leetcode.com/problems/merge-sorted-array/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Search In Rotated Sorted Array Ii",
+      "slug": "search-in-rotated-sorted-array-ii",
+      "url": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Subsets",
+      "slug": "subsets",
+      "url": "https://leetcode.com/problems/subsets/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Sort Colors",
+      "slug": "sort-colors",
+      "url": "https://leetcode.com/problems/sort-colors/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Search A 2d Matrix",
+      "slug": "search-a-2d-matrix",
+      "url": "https://leetcode.com/problems/search-a-2d-matrix/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Plus One",
+      "slug": "plus-one",
+      "url": "https://leetcode.com/problems/plus-one/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Minimum Path Sum",
+      "slug": "minimum-path-sum",
+      "url": "https://leetcode.com/problems/minimum-path-sum/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Spiral Matrix Ii",
+      "slug": "spiral-matrix-ii",
+      "url": "https://leetcode.com/problems/spiral-matrix-ii/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Spiral Matrix",
+      "slug": "spiral-matrix",
+      "url": "https://leetcode.com/problems/spiral-matrix/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Maximum Subarray",
+      "slug": "maximum-subarray",
+      "url": "https://leetcode.com/problems/maximum-subarray/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Group Anagrams",
+      "slug": "group-anagrams",
+      "url": "https://leetcode.com/problems/group-anagrams/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Trapping Rain Water",
+      "slug": "trapping-rain-water",
+      "url": "https://leetcode.com/problems/trapping-rain-water/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Combination Sum Ii",
+      "slug": "combination-sum-ii",
+      "url": "https://leetcode.com/problems/combination-sum-ii/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Combination Sum",
+      "slug": "combination-sum",
+      "url": "https://leetcode.com/problems/combination-sum/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Valid Sudoku",
+      "slug": "valid-sudoku",
+      "url": "https://leetcode.com/problems/valid-sudoku/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Search Insert Position",
+      "slug": "search-insert-position",
+      "url": "https://leetcode.com/problems/search-insert-position/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Find First And Last Position Of Element In Sorted Array",
+      "slug": "find-first-and-last-position-of-element-in-sorted-array",
+      "url": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Search In Rotated Sorted Array",
+      "slug": "search-in-rotated-sorted-array",
+      "url": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Remove Element",
+      "slug": "remove-element",
+      "url": "https://leetcode.com/problems/remove-element/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Remove Duplicates From Sorted Array",
+      "slug": "remove-duplicates-from-sorted-array",
+      "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "3sum",
+      "slug": "3sum",
+      "url": "https://leetcode.com/problems/3sum/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Longest Common Prefix",
+      "slug": "longest-common-prefix",
+      "url": "https://leetcode.com/problems/longest-common-prefix/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Container With Most Water",
+      "slug": "container-with-most-water",
+      "url": "https://leetcode.com/problems/container-with-most-water/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Median Of Two Sorted Arrays",
+      "slug": "median-of-two-sorted-arrays",
+      "url": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+      "difficulty": "Unknown",
+      "topics": [],
+      "solutions": []
+    },
+    {
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "url": "https://leetcode.com/problems/two-sum/",
+      "difficulty": "EASY",
+      "topics": [
+        "Array",
+        "Hash-Table"
+      ],
+      "solutions": [
+        {
+          "topic": "Array",
+          "language": "Python",
+          "path": "Array/two-sum.py",
+          "url": "https://github.com/dk132001/LeetCode_DE/blob/main/Array/two-sum.py"
+        },
+        {
+          "topic": "Hash-Table",
+          "language": "Python",
+          "path": "Hash-Table/two-sum.py",
+          "url": "https://github.com/dk132001/LeetCode_DE/blob/main/Hash-Table/two-sum.py"
+        }
+      ]
+    }
+  ]
+}
