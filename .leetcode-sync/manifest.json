@@ -1,7 +1,7 @@
 {
   "generatedBy": "LeetTrack",
   "username": "dineshdk532",
-  "updatedAt": "2026-11-15T13:11:30.589Z",
+  "updatedAt": "2026-11-16T14:35:40.584Z",
   "problems": [
     {
       "title": "Game Play Analysis I",
@@ -2245,9 +2245,32 @@
       "title": "Longest Common Prefix",
       "slug": "longest-common-prefix",
       "url": "https://leetcode.com/problems/longest-common-prefix/",
-      "difficulty": "Unknown",
-      "topics": [],
-      "solutions": []
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "String",
+        "Trie"
+      ],
+      "solutions": [
+        {
+          "topic": "Array",
+          "language": "Python",
+          "path": "Array/longest-common-prefix.py",
+          "url": "https://github.com/dk132001/LeetCode_DE/blob/main/Array/longest-common-prefix.py"
+        },
+        {
+          "topic": "String",
+          "language": "Python",
+          "path": "String/longest-common-prefix.py",
+          "url": "https://github.com/dk132001/LeetCode_DE/blob/main/String/longest-common-prefix.py"
+        },
+        {
+          "topic": "Trie",
+          "language": "Python",
+          "path": "Trie/longest-common-prefix.py",
+          "url": "https://github.com/dk132001/LeetCode_DE/blob/main/Trie/longest-common-prefix.py"
+        }
+      ]
     },
     {
       "title": "Container With Most Water",
