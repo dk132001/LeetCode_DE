@@ -2,7 +2,7 @@
 
 # LeetCode, one solve at a time
 
-![Solved](https://img.shields.io/badge/solved-27-2ea44f?style=for-the-badge&logo=leetcode&logoColor=white) ![Easy](https://img.shields.io/badge/easy-23-2ea44f?style=flat-square) ![Medium](https://img.shields.io/badge/medium-4-d29922?style=flat-square)
+![Solved](https://img.shields.io/badge/solved-28-2ea44f?style=for-the-badge&logo=leetcode&logoColor=white) ![Easy](https://img.shields.io/badge/easy-24-2ea44f?style=flat-square) ![Medium](https://img.shields.io/badge/medium-4-d29922?style=flat-square)
 
 *An automatically updated list of problems completed in LeetCode.*
 
@@ -12,7 +12,7 @@
 
 | Completed | In progress | Updated |
 | :---: | :---: | :---: |
-| **27** | **0** | 2026-11-16 |
+| **28** | **0** | 2026-11-16 |
 
 ## Problems completed
 
@@ -33,6 +33,7 @@
 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | ![Easy](https://img.shields.io/badge/Easy-2ea44f) | Array, String, Trie |
 | [Market Analysis I](https://leetcode.com/problems/market-analysis-i/) | ![MEDIUM](https://img.shields.io/badge/MEDIUM-d29922) | Database |
 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | ![MEDIUM](https://img.shields.io/badge/MEDIUM-d29922) | Array, Greedy, Sorting, Counting Sort |
+| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | ![Easy](https://img.shields.io/badge/Easy-2ea44f) | Linked List, Recursion |
 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | ![EASY](https://img.shields.io/badge/EASY-2ea44f) | Database |
 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | ![EASY](https://img.shields.io/badge/EASY-2ea44f) | Math |
 | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/) | ![EASY](https://img.shields.io/badge/EASY-2ea44f) | Database |
@@ -101,12 +102,24 @@
 | :--- | :---: | :--- | :---: |
 | [Two Sum](https://leetcode.com/problems/two-sum/) | ![EASY](https://img.shields.io/badge/EASY-2ea44f) | Python | [View answer](https://github.com/dk132001/LeetCode_DE/blob/main/Hash-Table/two-sum.py) |
 
+### Linked-List
+
+| Problem | Difficulty | Language | Answer |
+| :--- | :---: | :--- | :---: |
+| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | ![Easy](https://img.shields.io/badge/Easy-2ea44f) | Python | [View answer](https://github.com/dk132001/LeetCode_DE/blob/main/Linked-List/merge-two-sorted-lists.py) |
+
 ### Math
 
 | Problem | Difficulty | Language | Answer |
 | :--- | :---: | :--- | :---: |
 | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | ![EASY](https://img.shields.io/badge/EASY-2ea44f) | Python | [View answer](https://github.com/dk132001/LeetCode_DE/blob/main/Math/divisible-and-non-divisible-sums-difference.py) |
 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | ![EASY](https://img.shields.io/badge/EASY-2ea44f) | Python | [View answer](https://github.com/dk132001/LeetCode_DE/blob/main/Math/palindrome-number.py) |
+
+### Recursion
+
+| Problem | Difficulty | Language | Answer |
+| :--- | :---: | :--- | :---: |
+| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | ![Easy](https://img.shields.io/badge/Easy-2ea44f) | Python | [View answer](https://github.com/dk132001/LeetCode_DE/blob/main/Recursion/merge-two-sorted-lists.py) |
 
 ### Sorting
 
