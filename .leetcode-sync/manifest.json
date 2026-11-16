@@ -1,7 +1,7 @@
 {
   "generatedBy": "LeetTrack",
   "username": "dineshdk532",
-  "updatedAt": "2026-11-16T14:35:40.584Z",
+  "updatedAt": "2026-11-16T15:18:03.679Z",
   "problems": [
     {
       "title": "Game Play Analysis I",
@@ -778,9 +778,25 @@
       "title": "Merge Two Sorted Lists",
       "slug": "merge-two-sorted-lists",
       "url": "https://leetcode.com/problems/merge-two-sorted-lists/",
-      "difficulty": "Unknown",
-      "topics": [],
-      "solutions": []
+      "difficulty": "Easy",
+      "topics": [
+        "Linked-List",
+        "Recursion"
+      ],
+      "solutions": [
+        {
+          "topic": "Linked-List",
+          "language": "Python",
+          "path": "Linked-List/merge-two-sorted-lists.py",
+          "url": "https://github.com/dk132001/LeetCode_DE/blob/main/Linked-List/merge-two-sorted-lists.py"
+        },
+        {
+          "topic": "Recursion",
+          "language": "Python",
+          "path": "Recursion/merge-two-sorted-lists.py",
+          "url": "https://github.com/dk132001/LeetCode_DE/blob/main/Recursion/merge-two-sorted-lists.py"
+        }
+      ]
     },
     {
       "title": "Remove Nth Node From End Of List",
