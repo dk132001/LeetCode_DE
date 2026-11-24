@@ -1,7 +1,7 @@
 {
   "generatedBy": "LeetTrack",
   "username": "dineshdk532",
-  "updatedAt": "2026-11-24T06:50:19.538Z",
+  "updatedAt": "2026-11-24T06:55:07.758Z",
   "problems": [
     {
       "title": "Game Play Analysis I",
@@ -1310,6 +1310,12 @@
           "language": "SQL",
           "path": "Database/duplicate-emails.sql",
           "url": "https://github.com/dk132001/LeetCode_DE/blob/main/Database/duplicate-emails.sql"
+        },
+        {
+          "topic": "Database",
+          "language": "Python",
+          "path": "Database/duplicate-emails.py",
+          "url": "https://github.com/dk132001/LeetCode_DE/blob/main/Database/duplicate-emails.py"
         }
       ]
     },
