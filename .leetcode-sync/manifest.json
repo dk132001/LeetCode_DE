@@ -1,7 +1,7 @@
 {
   "generatedBy": "LeetTrack",
   "username": "dineshdk532",
-  "updatedAt": "2026-11-24T06:35:35.421Z",
+  "updatedAt": "2026-11-24T06:46:19.042Z",
   "problems": [
     {
       "title": "Game Play Analysis I",
@@ -1318,6 +1318,12 @@
           "language": "SQL",
           "path": "Database/employees-earning-more-than-their-managers.sql",
           "url": "https://github.com/dk132001/LeetCode_DE/blob/main/Database/employees-earning-more-than-their-managers.sql"
+        },
+        {
+          "topic": "Database",
+          "language": "Python",
+          "path": "Database/employees-earning-more-than-their-managers.py",
+          "url": "https://github.com/dk132001/LeetCode_DE/blob/main/Database/employees-earning-more-than-their-managers.py"
         }
       ]
     },
