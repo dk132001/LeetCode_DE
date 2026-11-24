@@ -2,7 +2,7 @@
 
 # LeetCode, one solve at a time
 
-![Solved](https://img.shields.io/badge/solved-29-2ea44f?style=for-the-badge&logo=leetcode&logoColor=white) ![Easy](https://img.shields.io/badge/easy-24-2ea44f?style=flat-square) ![Medium](https://img.shields.io/badge/medium-4-d29922?style=flat-square) ![Tracked](https://img.shields.io/badge/tracked-1-8957e5?style=flat-square)
+![Solved](https://img.shields.io/badge/solved-30-2ea44f?style=for-the-badge&logo=leetcode&logoColor=white) ![Easy](https://img.shields.io/badge/easy-24-2ea44f?style=flat-square) ![Medium](https://img.shields.io/badge/medium-4-d29922?style=flat-square) ![Tracked](https://img.shields.io/badge/tracked-2-8957e5?style=flat-square)
 
 *An automatically updated list of problems completed in LeetCode.*
 
@@ -12,7 +12,7 @@
 
 | Completed | In progress | Updated |
 | :---: | :---: | :---: |
-| **29** | **0** | 2026-11-24 |
+| **30** | **0** | 2026-11-24 |
 
 ## Problems completed
 
@@ -27,6 +27,7 @@
 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | ![EASY](https://img.shields.io/badge/EASY-2ea44f) | Database |
 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | ![EASY](https://img.shields.io/badge/EASY-2ea44f) | Database |
 | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | ![EASY](https://img.shields.io/badge/EASY-2ea44f) | Math |
+| [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | ![Tracked](https://img.shields.io/badge/Tracked-8957e5) | Database |
 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | ![Tracked](https://img.shields.io/badge/Tracked-8957e5) | Database |
 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | ![EASY](https://img.shields.io/badge/EASY-2ea44f) | Database |
 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | ![EASY](https://img.shields.io/badge/EASY-2ea44f) | Database |
@@ -76,6 +77,7 @@
 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | ![EASY](https://img.shields.io/badge/EASY-2ea44f) | SQL | [View answer](https://github.com/dk132001/LeetCode_DE/blob/main/Database/combine-two-tables.sql) |
 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | ![EASY](https://img.shields.io/badge/EASY-2ea44f) | SQL | [View answer](https://github.com/dk132001/LeetCode_DE/blob/main/Database/customer-placing-the-largest-number-of-orders.sql) |
 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | ![EASY](https://img.shields.io/badge/EASY-2ea44f) | SQL | [View answer](https://github.com/dk132001/LeetCode_DE/blob/main/Database/customer-who-visited-but-did-not-make-any-transactions.sql) |
+| [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | ![Tracked](https://img.shields.io/badge/Tracked-8957e5) | SQL | [View answer](https://github.com/dk132001/LeetCode_DE/blob/main/Database/duplicate-emails.sql) |
 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | ![Tracked](https://img.shields.io/badge/Tracked-8957e5) | SQL | [View answer](https://github.com/dk132001/LeetCode_DE/blob/main/Database/employees-earning-more-than-their-managers.sql) |
 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | ![Tracked](https://img.shields.io/badge/Tracked-8957e5) | Python | [View answer](https://github.com/dk132001/LeetCode_DE/blob/main/Database/employees-earning-more-than-their-managers.py) |
 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | ![EASY](https://img.shields.io/badge/EASY-2ea44f) | SQL | [View answer](https://github.com/dk132001/LeetCode_DE/blob/main/Database/find-customer-referee.sql) |
