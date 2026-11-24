@@ -1,7 +1,7 @@
 {
   "generatedBy": "LeetTrack",
   "username": "dineshdk532",
-  "updatedAt": "2026-11-24T06:46:19.042Z",
+  "updatedAt": "2026-11-24T06:50:19.538Z",
   "problems": [
     {
       "title": "Game Play Analysis I",
@@ -1301,8 +1301,17 @@
       "slug": "duplicate-emails",
       "url": "https://leetcode.com/problems/duplicate-emails/",
       "difficulty": "Unknown",
-      "topics": [],
-      "solutions": []
+      "topics": [
+        "Database"
+      ],
+      "solutions": [
+        {
+          "topic": "Database",
+          "language": "SQL",
+          "path": "Database/duplicate-emails.sql",
+          "url": "https://github.com/dk132001/LeetCode_DE/blob/main/Database/duplicate-emails.sql"
+        }
+      ]
     },
     {
       "title": "Employees Earning More Than Their Managers",
