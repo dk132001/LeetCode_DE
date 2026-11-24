@@ -1,7 +1,7 @@
 {
   "generatedBy": "LeetTrack",
   "username": "dineshdk532",
-  "updatedAt": "2026-11-16T15:18:03.679Z",
+  "updatedAt": "2026-11-24T06:35:35.421Z",
   "problems": [
     {
       "title": "Game Play Analysis I",
@@ -1309,8 +1309,17 @@
       "slug": "employees-earning-more-than-their-managers",
       "url": "https://leetcode.com/problems/employees-earning-more-than-their-managers/",
       "difficulty": "Unknown",
-      "topics": [],
-      "solutions": []
+      "topics": [
+        "Database"
+      ],
+      "solutions": [
+        {
+          "topic": "Database",
+          "language": "SQL",
+          "path": "Database/employees-earning-more-than-their-managers.sql",
+          "url": "https://github.com/dk132001/LeetCode_DE/blob/main/Database/employees-earning-more-than-their-managers.sql"
+        }
+      ]
     },
     {
       "title": "Combine Two Tables",
